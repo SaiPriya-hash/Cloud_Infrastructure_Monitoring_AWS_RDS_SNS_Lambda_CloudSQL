@@ -106,7 +106,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, please contact:
 
 - **Sai Priya**  
-- **Ypriya.ml.ai.hyd@gmail.com** 
+- **priya.ml.ai.hyd@gmail.com** 
 - **priya.sai.work@gmail.com**  
 - **www.linkedin.com/in/Sai-Priya-IIIT** (optional)
 ```
