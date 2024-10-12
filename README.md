@@ -108,7 +108,4 @@ For any inquiries, please contact:
 - **Sai Priya**  
 - **priya.ml.ai.hyd@gmail.com** 
 - **priya.sai.work@gmail.com**  
-- **www.linkedin.com/in/Sai-Priya-IIIT** (optional)
-```
-
-You can paste this content directly into a file named `README.md` in your GitHub repository. Make sure to update the placeholders with your actual information!
+- **www.linkedin.com/in/Sai-Priya-IIIT**
